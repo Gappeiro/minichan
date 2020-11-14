@@ -2,7 +2,7 @@
 
     $host = "localhost";
     $user = "root";
-    $pass = "34k3rt11964";
+    $pass = "";
     $db = "minichan";
 
     $connection = mysqli_connect($host, $user, $pass, $db);
